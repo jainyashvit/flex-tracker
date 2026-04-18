@@ -1,0 +1,6 @@
+{
+  "name": "FlexTrack",
+  "description": "A smart fitness tracker with daily checklists, exercise scheduling, and progress visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
